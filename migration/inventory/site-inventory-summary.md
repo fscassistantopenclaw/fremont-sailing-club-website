@@ -1,0 +1,302 @@
+# Fremont Sailing Club site inventory
+
+- Base URL: https://www.fremontsailingclub.org/
+- Pages in sitemap: 173
+- Unique referenced assets: 837
+
+## Page types
+- year-archive: 59
+- general: 36
+- dated-post: 27
+- racing: 26
+- gallery: 10
+- monthly-post: 6
+- core-info: 4
+- calendar: 2
+- fleet-page: 2
+- home: 1
+
+## Likely global navigation (derived from homepage links reused across many pages)
+- Home -> https://www.fremontsailingclub.org/ (seen on 172 pages)
+- The Club -> https://www.fremontsailingclub.org/the-club.html (seen on 172 pages)
+- Membership -> https://www.fremontsailingclub.org/membership.html (seen on 172 pages)
+- By Laws -> https://www.fremontsailingclub.org/by-laws.html (seen on 172 pages)
+- The Coffey Cup -> https://www.fremontsailingclub.org/the-coffey-cup.html (seen on 172 pages)
+- Officers & Fleet Captains -> https://www.fremontsailingclub.org/officers--fleet-captains.html (seen on 172 pages)
+- Sailing Classes -> https://www.fremontsailingclub.org/sailing-classes.html (seen on 172 pages)
+- 2026 Calendar -> https://www.fremontsailingclub.org/2023-calendar-562573-358418.html (seen on 172 pages)
+- Fleets -> https://www.fremontsailingclub.org/fleets.html (seen on 172 pages)
+- Lido -> https://www.fremontsailingclub.org/lido.html (seen on 172 pages)
+- El Toro -> https://www.fremontsailingclub.org/el-toro.html (seen on 172 pages)
+- Open -> https://www.fremontsailingclub.org/open.html (seen on 172 pages)
+- Racing -> https://www.fremontsailingclub.org/racing1.html (seen on 172 pages)
+- 2026 Notice of Race -> https://www.fremontsailingclub.org/2026-notice-of-race.html (seen on 172 pages)
+- 2026 Sailing Instructions -> https://www.fremontsailingclub.org/2026-sailing-instructions.html (seen on 172 pages)
+- Results > -> https://www.fremontsailingclub.org/results.html (seen on 172 pages)
+- 2025 > -> https://www.fremontsailingclub.org/2025.html (seen on 172 pages)
+- Spring Series Day 1 -> https://www.fremontsailingclub.org/spring-series-day-1.html (seen on 172 pages)
+- Spring Series Day 2 -> https://www.fremontsailingclub.org/spring-series-day-2.html (seen on 172 pages)
+- Spring Series Day 3 -> https://www.fremontsailingclub.org/spring-series-day-3.html (seen on 172 pages)
+- Spring Series Overall -> https://www.fremontsailingclub.org/spring-series-overall.html (seen on 172 pages)
+- Summer Series Day 1 -> https://www.fremontsailingclub.org/summer-series-day-12.html (seen on 172 pages)
+- Summer Series Day 2 -> https://www.fremontsailingclub.org/summer-series-day-22.html (seen on 172 pages)
+- Summer Series Day 3 -> https://www.fremontsailingclub.org/summer-series-day-31.html (seen on 172 pages)
+- Summer Series Overall -> https://www.fremontsailingclub.org/summer-series-overall.html (seen on 172 pages)
+- Fall Series Day 1 -> https://www.fremontsailingclub.org/fall-series-day-11.html (seen on 172 pages)
+- Fall Series Day 2 -> https://www.fremontsailingclub.org/fall-series-day-22.html (seen on 172 pages)
+- Fall Series Day 3 -> https://www.fremontsailingclub.org/fall-series-day-31.html (seen on 172 pages)
+- Fall Series Overall -> https://www.fremontsailingclub.org/fall-series-overall.html (seen on 172 pages)
+- 2023 > -> https://www.fremontsailingclub.org/2023.html (seen on 172 pages)
+- Fall Series Day 2 -> https://www.fremontsailingclub.org/fall-series-day-2.html (seen on 172 pages)
+- 2021 > -> https://www.fremontsailingclub.org/20211.html (seen on 172 pages)
+- Spring Series Day 1 -> https://www.fremontsailingclub.org/spring-series-day-11.html (seen on 172 pages)
+- Spring Series Day 2 -> https://www.fremontsailingclub.org/spring-series-day-21.html (seen on 172 pages)
+- Spring Series Totals -> https://www.fremontsailingclub.org/spring-series-totals1.html (seen on 172 pages)
+- Summer Series Day 1 > -> https://www.fremontsailingclub.org/summer-series-day-11.html (seen on 172 pages)
+- Race Commentary -> https://www.fremontsailingclub.org/race-commentary.html (seen on 172 pages)
+- Summer Series Day 2 -> https://www.fremontsailingclub.org/summer-series-day-21.html (seen on 172 pages)
+- Summer Series Day 3 -> https://www.fremontsailingclub.org/summer-series-day-3.html (seen on 172 pages)
+- Fall Series Day 1 -> https://www.fremontsailingclub.org/fall-series-day-1.html (seen on 172 pages)
+- Fall Series Day 2 -> https://www.fremontsailingclub.org/fall-series-day-21.html (seen on 172 pages)
+- Fall Series Day 3 -> https://www.fremontsailingclub.org/fall-series-day-3.html (seen on 172 pages)
+- 2019 > -> https://www.fremontsailingclub.org/2019.html (seen on 172 pages)
+- Spring Series Totals -> https://www.fremontsailingclub.org/spring-series-totals.html (seen on 172 pages)
+- Fremont Relays 2019 -> https://www.fremontsailingclub.org/fremont-relays-2019.html (seen on 172 pages)
+- Summer Series Day 1 -> https://www.fremontsailingclub.org/summer-series-day-1.html (seen on 172 pages)
+- Summer Series Day 2 -> https://www.fremontsailingclub.org/summer-series-day-2.html (seen on 172 pages)
+- Beginner' Guides -> https://www.fremontsailingclub.org/beginner-guides.html (seen on 172 pages)
+- Racing -> https://www.fremontsailingclub.org/racing.html (seen on 172 pages)
+- The Racing Rules of Sailing -> https://www.fremontsailingclub.org/the-racing-rules-of-sailing.html (seen on 172 pages)
+- Racing Strategy -> https://www.fremontsailingclub.org/racing-strategy.html (seen on 172 pages)
+- Racing Tactics -> https://www.fremontsailingclub.org/racing-tactics.html (seen on 172 pages)
+- Being On The Race Committee -> https://www.fremontsailingclub.org/being-on-the-race-committee.html (seen on 172 pages)
+- Commodore's Comments -> https://www.fremontsailingclub.org/commodores-comments.html (seen on 172 pages)
+- 2026 > -> https://www.fremontsailingclub.org/2026.html (seen on 172 pages)
+- 2026-01-10 -> https://www.fremontsailingclub.org/2026-01-10.html (seen on 172 pages)
+- 2025 > -> https://www.fremontsailingclub.org/20251.html (seen on 172 pages)
+- 2025-11-19 -> https://www.fremontsailingclub.org/2025-11-19.html (seen on 172 pages)
+- 2025-10-06 -> https://www.fremontsailingclub.org/2025-10-06.html (seen on 172 pages)
+- 2025-09-07 -> https://www.fremontsailingclub.org/2025-09-07.html (seen on 172 pages)
+- 2025-08-24 -> https://www.fremontsailingclub.org/2025-08-24.html (seen on 172 pages)
+- 2025-08-03 -> https://www.fremontsailingclub.org/2025-08-03.html (seen on 172 pages)
+- 2025-07-20 -> https://www.fremontsailingclub.org/2025-07-20.html (seen on 172 pages)
+- 2025-07-08 -> https://www.fremontsailingclub.org/2025-07-08.html (seen on 172 pages)
+- 2025-06-23 -> https://www.fremontsailingclub.org/2025-06-23.html (seen on 172 pages)
+- 2025-06-10 -> https://www.fremontsailingclub.org/2025-06-10.html (seen on 172 pages)
+- 2025-05-19 -> https://www.fremontsailingclub.org/2025-05-19.html (seen on 172 pages)
+- 2025-05-05 -> https://www.fremontsailingclub.org/2025-05-05.html (seen on 172 pages)
+- 2025-04-28 -> https://www.fremontsailingclub.org/2025-04-28.html (seen on 172 pages)
+- 2025-02-23 -> https://www.fremontsailingclub.org/2025-02-23.html (seen on 172 pages)
+- 2024 > -> https://www.fremontsailingclub.org/2024.html (seen on 172 pages)
+- 2024-04-09 -> https://www.fremontsailingclub.org/2024-04-09.html (seen on 172 pages)
+- 2024-04-01 -> https://www.fremontsailingclub.org/2024-04-01.html (seen on 172 pages)
+- 2024-03-29 -> https://www.fremontsailingclub.org/2024-03-29.html (seen on 172 pages)
+- 2024-03-19 -> https://www.fremontsailingclub.org/2024-03-19.html (seen on 172 pages)
+- 2024-02-29 -> https://www.fremontsailingclub.org/2024-02-29.html (seen on 172 pages)
+- 2024-02-28 -> https://www.fremontsailingclub.org/2024-02-28.html (seen on 172 pages)
+- 2024-02-10 -> https://www.fremontsailingclub.org/2024-02-10.html (seen on 172 pages)
+- 2024-02-05 -> https://www.fremontsailingclub.org/2024-02-05.html (seen on 172 pages)
+- 2024-01-18 -> https://www.fremontsailingclub.org/2024-01-18.html (seen on 172 pages)
+- 2024-01-01 -> https://www.fremontsailingclub.org/2024-01-01.html (seen on 172 pages)
+- 2023 > -> https://www.fremontsailingclub.org/20232.html (seen on 172 pages)
+- 2023-10-15 -> https://www.fremontsailingclub.org/2023-10-15.html (seen on 172 pages)
+- 2023-09-17 -> https://www.fremontsailingclub.org/2023-09-17.html (seen on 172 pages)
+- 2023-04 -> https://www.fremontsailingclub.org/2023-04.html (seen on 172 pages)
+- 2022 > -> https://www.fremontsailingclub.org/20221.html (seen on 172 pages)
+- 2022-09-26 -> https://www.fremontsailingclub.org/2022-09-26.html (seen on 172 pages)
+- 2022-03 -> https://www.fremontsailingclub.org/2022-03.html (seen on 172 pages)
+- 2022-01 -> https://www.fremontsailingclub.org/2022-01.html (seen on 172 pages)
+- 2021 > -> https://www.fremontsailingclub.org/20212.html (seen on 172 pages)
+- 2021-12 -> https://www.fremontsailingclub.org/2021-12.html (seen on 172 pages)
+- 2021-08 -> https://www.fremontsailingclub.org/2021-08.html (seen on 172 pages)
+- 2021-07 -> https://www.fremontsailingclub.org/2021-07.html (seen on 172 pages)
+- Windjammer Newsletter -> https://www.fremontsailingclub.org/windjammer-newsletter.html (seen on 172 pages)
+- 2020s > -> https://www.fremontsailingclub.org/2020s.html (seen on 172 pages)
+- 2020 -> https://www.fremontsailingclub.org/2020.html (seen on 172 pages)
+- 2021 -> https://www.fremontsailingclub.org/2021.html (seen on 172 pages)
+- 2022 -> https://www.fremontsailingclub.org/2022.html (seen on 172 pages)
+- 2023 -> https://www.fremontsailingclub.org/20231.html (seen on 172 pages)
+- 2024 -> https://www.fremontsailingclub.org/20241.html (seen on 172 pages)
+- 2025 -> https://www.fremontsailingclub.org/20252.html (seen on 172 pages)
+- 2010s > -> https://www.fremontsailingclub.org/2010s.html (seen on 172 pages)
+- 2010 -> https://www.fremontsailingclub.org/2010.html (seen on 172 pages)
+- 2011 -> https://www.fremontsailingclub.org/2011.html (seen on 172 pages)
+- 2012 -> https://www.fremontsailingclub.org/2012.html (seen on 172 pages)
+- 2013 -> https://www.fremontsailingclub.org/2013.html (seen on 172 pages)
+- 2014 -> https://www.fremontsailingclub.org/2014.html (seen on 172 pages)
+- 2015 -> https://www.fremontsailingclub.org/2015.html (seen on 172 pages)
+- 2016 -> https://www.fremontsailingclub.org/2016.html (seen on 172 pages)
+- 2017 -> https://www.fremontsailingclub.org/2017.html (seen on 172 pages)
+- 2018 -> https://www.fremontsailingclub.org/2018.html (seen on 172 pages)
+- 2019 -> https://www.fremontsailingclub.org/20191.html (seen on 172 pages)
+- 2000s > -> https://www.fremontsailingclub.org/2000s.html (seen on 172 pages)
+- 2000 -> https://www.fremontsailingclub.org/2000.html (seen on 172 pages)
+- 2001 -> https://www.fremontsailingclub.org/2001.html (seen on 172 pages)
+- 2002 -> https://www.fremontsailingclub.org/2002.html (seen on 172 pages)
+- 2003 -> https://www.fremontsailingclub.org/2003.html (seen on 172 pages)
+- 2004 -> https://www.fremontsailingclub.org/2004.html (seen on 172 pages)
+- 2005 -> https://www.fremontsailingclub.org/2005.html (seen on 172 pages)
+- 2006 -> https://www.fremontsailingclub.org/2006.html (seen on 172 pages)
+- 2007 -> https://www.fremontsailingclub.org/2007.html (seen on 172 pages)
+- 2008 -> https://www.fremontsailingclub.org/2008.html (seen on 172 pages)
+- 2009 -> https://www.fremontsailingclub.org/2009.html (seen on 172 pages)
+- 1990s > -> https://www.fremontsailingclub.org/1990s.html (seen on 172 pages)
+- 1990 -> https://www.fremontsailingclub.org/1990.html (seen on 172 pages)
+- 1991 -> https://www.fremontsailingclub.org/1991.html (seen on 172 pages)
+- 1992 -> https://www.fremontsailingclub.org/1992.html (seen on 172 pages)
+- 1993 -> https://www.fremontsailingclub.org/1993.html (seen on 172 pages)
+- 1994 -> https://www.fremontsailingclub.org/1994.html (seen on 172 pages)
+- 1995 -> https://www.fremontsailingclub.org/1995.html (seen on 172 pages)
+- 1996 -> https://www.fremontsailingclub.org/1996.html (seen on 172 pages)
+- 1997 -> https://www.fremontsailingclub.org/1997.html (seen on 172 pages)
+- 1998 -> https://www.fremontsailingclub.org/1998.html (seen on 172 pages)
+- 1999 -> https://www.fremontsailingclub.org/1999.html (seen on 172 pages)
+- 1980s > -> https://www.fremontsailingclub.org/1980s.html (seen on 172 pages)
+- 1980 -> https://www.fremontsailingclub.org/1980.html (seen on 172 pages)
+- 1981 -> https://www.fremontsailingclub.org/1981.html (seen on 172 pages)
+- 1982 -> https://www.fremontsailingclub.org/1982.html (seen on 172 pages)
+- 1983 -> https://www.fremontsailingclub.org/1983.html (seen on 172 pages)
+- 1984 -> https://www.fremontsailingclub.org/1984.html (seen on 172 pages)
+- 1985 -> https://www.fremontsailingclub.org/1985.html (seen on 172 pages)
+- 1986 -> https://www.fremontsailingclub.org/1986.html (seen on 172 pages)
+- 1987 -> https://www.fremontsailingclub.org/1987.html (seen on 172 pages)
+- 1988 -> https://www.fremontsailingclub.org/1988.html (seen on 172 pages)
+- 1989 -> https://www.fremontsailingclub.org/1989.html (seen on 172 pages)
+- 1970s > -> https://www.fremontsailingclub.org/1970s.html (seen on 172 pages)
+- 1970 -> https://www.fremontsailingclub.org/1970.html (seen on 172 pages)
+- 1971 -> https://www.fremontsailingclub.org/1971.html (seen on 172 pages)
+- 1972 -> https://www.fremontsailingclub.org/1972.html (seen on 172 pages)
+- 1973 -> https://www.fremontsailingclub.org/1973.html (seen on 172 pages)
+- 1974 -> https://www.fremontsailingclub.org/1974.html (seen on 172 pages)
+- 1975 -> https://www.fremontsailingclub.org/1975.html (seen on 172 pages)
+- 1976 -> https://www.fremontsailingclub.org/1976.html (seen on 172 pages)
+- 1977 -> https://www.fremontsailingclub.org/1977.html (seen on 172 pages)
+- 1978 -> https://www.fremontsailingclub.org/1978.html (seen on 172 pages)
+- 1979 -> https://www.fremontsailingclub.org/1979.html (seen on 172 pages)
+- 1960s > -> https://www.fremontsailingclub.org/1960s.html (seen on 172 pages)
+- 1968 -> https://www.fremontsailingclub.org/1968.html (seen on 172 pages)
+- 1969 -> https://www.fremontsailingclub.org/1969.html (seen on 172 pages)
+- Photos -> https://www.fremontsailingclub.org/photos.html (seen on 172 pages)
+- 2024 Photo Gallery -> https://www.fremontsailingclub.org/2024-photo-gallery.html (seen on 172 pages)
+- Spring 789 - Gallery - 2021 > -> https://www.fremontsailingclub.org/spring-789---gallery---2021.html (seen on 172 pages)
+- Spring 789 - Slideshow - 2019 -> https://www.fremontsailingclub.org/spring-789---slideshow---2019.html (seen on 172 pages)
+- Fremont Relays - Gallery -2019 > -> https://www.fremontsailingclub.org/fremont-relays---gallery--2019.html (seen on 172 pages)
+- Fremont Relays - Slideshow - 2019 -> https://www.fremontsailingclub.org/fremont-relays---slideshow---2019.html (seen on 172 pages)
+- Spring 456 - Gallery - 2019 > -> https://www.fremontsailingclub.org/spring-456---gallery---2019.html (seen on 172 pages)
+- Spring 456 - Slideshow - 2019 -> https://www.fremontsailingclub.org/spring-456---slideshow---2019.html (seen on 172 pages)
+- June 3, 2018 - Gallery > -> https://www.fremontsailingclub.org/june-3-2018---gallery.html (seen on 172 pages)
+- June 3, 2018 - Slideshow -> https://www.fremontsailingclub.org/june-3-2018---slideshow.html (seen on 172 pages)
+- Useful Links -> https://www.fremontsailingclub.org/useful-links.html (seen on 172 pages)
+- Weebly -> https://www.fremontsailingclub.org/_blank (seen on 172 pages)
+
+## Top asset types
+- .jpg: 664
+- .png: 97
+- .jpeg: 25
+- .pdf: 19
+- .js: 18
+- .css: 11
+- (no-ext): 1
+- .gif: 1
+- .webp: 1
+
+## Top external dependencies
+- cdn2.editmysite.com: 589 references
+- drive.google.com: 554 references
+- cdn11.editmysite.com: 344 references
+- www.googletagmanager.com: 68 references
+- shorelinelake.com: 4 references
+- donaldjedlovecphotography.zenfolio.com: 3 references
+- mailchi.mp: 2 references
+- www.eltoroyra.org: 2 references
+- www.lido14class.com: 2 references
+- www.ussailing.org: 2 references
+- calendar.google.com: 1 references
+- ussailing.org: 1 references
+- jedlovec.wetransfer.com: 1 references
+- flic.kr: 1 references
+- maps.app.goo.gl: 1 references
+- docs.google.com: 1 references
+- www.encinal.org: 1 references
+- www.cal-sailing.org: 1 references
+- www.modernsailing.com: 1 references
+- www.tisailing.org: 1 references
+
+## Sample pages
+- 1960s.html [general] - 1960s - Fremont Sailing Club
+- 1968.html [year-archive] - 1968 - Fremont Sailing Club
+- 1969.html [year-archive] - 1969 - Fremont Sailing Club
+- 1970.html [year-archive] - 1970 - Fremont Sailing Club
+- 1970s.html [general] - 1970s - Fremont Sailing Club
+- 1971.html [year-archive] - 1971 - Fremont Sailing Club
+- 1972.html [year-archive] - 1972 - Fremont Sailing Club
+- 1973.html [year-archive] - 1973 - Fremont Sailing Club
+- 1974.html [year-archive] - 1974 - Fremont Sailing Club
+- 1975.html [year-archive] - 1975 - Fremont Sailing Club
+- 1976.html [year-archive] - 1976 - Fremont Sailing Club
+- 1977.html [year-archive] - 1977 - Fremont Sailing Club
+- 1978.html [year-archive] - 1978 - Fremont Sailing Club
+- 1979.html [year-archive] - 1979 - Fremont Sailing Club
+- 1980.html [year-archive] - 1980 - Fremont Sailing Club
+- 1980s.html [general] - 1980s - Fremont Sailing Club
+- 1981.html [year-archive] - 1981 - Fremont Sailing Club
+- 1982.html [year-archive] - 1982 - Fremont Sailing Club
+- 1983.html [year-archive] - 1983 - Fremont Sailing Club
+- 1984.html [year-archive] - 1984 - Fremont Sailing Club
+- 1985.html [year-archive] - 1985 - Fremont Sailing Club
+- 1986.html [year-archive] - 1986 - Fremont Sailing Club
+- 1987.html [year-archive] - 1987 - Fremont Sailing Club
+- 1988.html [year-archive] - 1988 - Fremont Sailing Club
+- 1989.html [year-archive] - 1989 - Fremont Sailing Club
+
+## Risky pages with forms, embeds, or external scripts
+- https://www.fremontsailingclub.org/1960s.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1968.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1969.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1970.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1970s.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1971.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1972.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1973.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1974.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1975.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1976.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1977.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1978.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1979.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1980.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1980s.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1981.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1982.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1983.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1984.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1985.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1986.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1987.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1988.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1989.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1990.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1990s.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1991.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1992.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1993.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1994.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1995.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1996.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/1997.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1998.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/1999.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2000.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/2000s.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2001.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/2002.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2003.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2004.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2005.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2006.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/2007.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/2008.html (forms=1, external_scripts=5)
+- https://www.fremontsailingclub.org/2009.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2010.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2010s.html (forms=1, external_scripts=6)
+- https://www.fremontsailingclub.org/2011.html (forms=1, external_scripts=5)
