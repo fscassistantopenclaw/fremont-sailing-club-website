@@ -7,7 +7,7 @@
   - tag `pre-rollback-2026-04-19`
 
 ## Current task
-- Batch 3 implementation completed locally and is being validated for review.
+- Batch 3 is complete on `main` and awaiting user review/approval before Batch 4.
 
 ## Known issue being fixed
 - Root-absolute internal paths like `/styles.css` and `/` broke the deployed site on GitHub Pages project subpaths. This was repaired before restarting Batch 2.
@@ -40,5 +40,4 @@
   - Photos
 
 ## Next planned step
-- Finish live-site verification for Batch 3.
 - Wait for user review and approval before any Batch 4 work.
