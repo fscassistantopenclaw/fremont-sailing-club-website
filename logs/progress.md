@@ -7,3 +7,4 @@
 - Wrote `migration/vertical-slice-plan.md` with candidate pages, source-material needs, target code structure, and approval questions.
 - Received approval to start implementation, beginning with the homepage slice only. The homepage should keep the current section order closely, keep a similar visual emphasis to the original layout, and keep upcoming events as manually maintained content.
 - Implemented a first static homepage slice using local copied assets from the live site, manual event content blocks, and simplified shared styling without any Weebly runtime dependencies.
+- Received approval to continue with the rest of the site. Starting with a repo-local batching plan and a proposed menu structure before scaling implementation.

@@ -32,3 +32,12 @@
   - Upcoming events are manual static content
   - No Weebly runtime scripts or analytics were added
   - First slice uses local image assets and plain HTML/CSS only
+
+## 2026-04-19 - sitewide migration planning kickoff
+- Tool activity summary:
+  - Recorded the user's approval to continue with the rest of the migration
+  - Starting with sitewide batching and menu-structure planning before deeper implementation
+- Output summary:
+  - Goal is to migrate the rest of the site in small, reviewable commits
+  - Need to lock down menu structure and page-group batching first
+  - Will surface any major architecture/tooling decision for approval before proceeding
