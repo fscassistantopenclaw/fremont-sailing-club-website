@@ -79,3 +79,14 @@
   - Club and Useful Links menu entries now point to local pages
   - Password-protected legacy content was not copied into the public repo
   - Batch 2 remains in a usable, rollback-safe state
+
+## 2026-04-19 - Batch 3 implementation
+- Tool activity summary:
+  - Fetched and reviewed source content for Fleets, Lido, El Toro, and Open Fleet
+  - Added Eleventy templates for the fleets overview and the three fleet pages
+  - Switched the main Fleets navigation item from the live site to the local page
+  - Rebuilt the site, rechecked generated local links, and spot-checked fleet page layouts in a browser
+- Output summary:
+  - Fleets content now exists locally with stable legacy filenames
+  - Main navigation now points to the local Fleets page without introducing dead links
+  - Batch 3 remains in a usable, rollback-safe state
