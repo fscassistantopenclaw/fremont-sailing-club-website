@@ -10,3 +10,4 @@
 - Received approval to continue with the rest of the site. Starting with a repo-local batching plan and a proposed menu structure before scaling implementation.
 - Received approval for the simplified menu, installing Eleventy, and preserving legacy filenames for now. Beginning Batch 1: shared shell, homepage menu, and stable generated output after each commit.
 - Completed the first pass of Batch 1: Eleventy is installed, the homepage now builds from shared source templates, the simplified menu is live, and the generated site was checked for obvious layout problems and dead local links.
+- Repair batch completed after rollback: removed root-absolute internal paths from the shared homepage shell, added a subpath-safety validation script, and rechecked the homepage under a nested GitHub Pages-style subpath before resuming any content work.

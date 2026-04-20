@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "dev": "eleventy --serve"
+    "dev": "eleventy --serve",
+    "validate:subpath": "python3 scripts/check_no_root_absolute_paths.py"
   },
   "repository": {
     "type": "git",

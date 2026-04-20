@@ -3,7 +3,7 @@ module.exports = {
   description:
     "The Fremont Sailing Club, established in 1968, is a family-oriented small boat sailing club in the San Francisco Bay Area.",
   menu: [
-    { label: "Home", href: "/", external: false },
+    { label: "Home", href: "index.html", external: false },
     { label: "Club", href: "https://www.fremontsailingclub.org/the-club.html", external: true },
     { label: "Fleets", href: "https://www.fremontsailingclub.org/fleets.html", external: true },
     { label: "Racing", href: "https://www.fremontsailingclub.org/results.html", external: true },

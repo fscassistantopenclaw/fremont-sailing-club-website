@@ -64,3 +64,16 @@
   - Homepage now builds from shared source templates
   - Simplified menu is integrated without dead local links
   - Batch 1 stays in a usable state and remains easy to rollback
+
+## 2026-04-19 - repair batch after rollback
+- Tool activity summary:
+  - Rolled `main` back to `af236e9` after preserving the later state on a backup branch and tag
+  - Replaced root-absolute homepage shell paths with deployment-safe relative paths
+  - Added `scripts/check_no_root_absolute_paths.py` and `npm run validate:subpath`
+  - Added `migration/CURRENT_STATE.md` as a compact handoff/status file
+  - Rebuilt the site and validated the homepage under a nested GitHub Pages-style subpath using a local browser smoke test
+- Output summary:
+  - Shared homepage shell no longer depends on domain-root paths
+  - A repeatable subpath-safety validation step now exists in the repo
+  - Homepage styling and images loaded correctly in the subpath smoke test
+  - No further migration work was resumed in this batch
