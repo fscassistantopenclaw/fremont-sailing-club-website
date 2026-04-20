@@ -7,7 +7,7 @@
   - tag `pre-rollback-2026-04-19`
 
 ## Current task
-- Batch 2 restart implementation completed locally and is being validated for review.
+- Batch 3 implementation completed locally and is being validated for review.
 
 ## Known issue being fixed
 - Root-absolute internal paths like `/styles.css` and `/` broke the deployed site on GitHub Pages project subpaths. This was repaired before restarting Batch 2.
@@ -30,12 +30,15 @@
   - membership.html
   - by-laws.html
   - useful-links.html
+  - fleets.html
+  - lido.html
+  - el-toro.html
+  - open.html
 - Still external:
-  - Fleets
   - Racing
   - News & Archives
   - Photos
 
 ## Next planned step
-- Finish live-site verification for this restarted Batch 2.
-- Wait for user review and approval before any Batch 3 work.
+- Finish live-site verification for Batch 3.
+- Wait for user review and approval before any Batch 4 work.

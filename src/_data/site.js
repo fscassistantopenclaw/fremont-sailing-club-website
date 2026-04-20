@@ -5,7 +5,7 @@ module.exports = {
   menu: [
     { label: "Home", href: "index.html", external: false },
     { label: "Club", href: "the-club.html", external: false },
-    { label: "Fleets", href: "https://www.fremontsailingclub.org/fleets.html", external: true },
+    { label: "Fleets", href: "fleets.html", external: false },
     { label: "Racing", href: "https://www.fremontsailingclub.org/results.html", external: true },
     { label: "News & Archives", href: "https://www.fremontsailingclub.org/commodores-comments.html", external: true },
     { label: "Photos", href: "https://www.fremontsailingclub.org/photos.html", external: true },

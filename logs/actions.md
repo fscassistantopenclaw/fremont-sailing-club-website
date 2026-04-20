@@ -91,3 +91,15 @@
   - Club and Useful Links are now served from the new GitHub Pages site
   - Fleets, Racing, News & Archives, and Photos still intentionally link to the legacy site
   - Batch 2 is ready for live-site verification and user review
+
+## 2026-04-19 - Batch 3 implementation
+- Tool activity summary:
+  - Re-reviewed source material for Fleets, Lido, El Toro, and Open Fleet
+  - Added Eleventy templates for the fleet overview and three fleet pages
+  - Switched the main Fleets navigation item from the legacy site to the new local page
+  - Rebuilt the site, rechecked subpath safety and local links, and ran browser smoke checks on the homepage and fleet pages
+- Output summary:
+  - Fleets content now exists locally with stable legacy filenames
+  - Fleets is now served from the new GitHub Pages site
+  - Racing, News & Archives, and Photos still intentionally link to the legacy site
+  - Batch 3 is ready for live-site verification and user review
