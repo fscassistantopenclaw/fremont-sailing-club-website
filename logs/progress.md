@@ -12,3 +12,4 @@
 - Completed the first pass of Batch 1: Eleventy is installed, the homepage now builds from shared source templates, the simplified menu is live, and the generated site was checked for obvious layout problems and dead local links.
 - Completed Batch 2 for the core club section: migrated The Club, Membership, By Laws, and Useful Links into the shared static layout, and added a careful placeholder for the password-protected Officers & Fleet Captains page instead of exposing protected content.
 - Completed Batch 3 for fleets: migrated the Fleets overview plus Lido, El Toro, and Open Fleet pages into the shared layout, swapped the main Fleets menu link to the local site, and rechecked local navigation after the batch.
+- Completed Batch 4 for racing basics: migrated the Racing overview, Results page, and current 2026 Notice of Race and Sailing Instructions pages, copied the current PDFs into the repo, and switched the main Racing menu link to the local site.

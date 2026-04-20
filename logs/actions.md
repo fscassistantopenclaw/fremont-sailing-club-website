@@ -90,3 +90,16 @@
   - Fleets content now exists locally with stable legacy filenames
   - Main navigation now points to the local Fleets page without introducing dead links
   - Batch 3 remains in a usable, rollback-safe state
+
+## 2026-04-19 - Batch 4 implementation
+- Tool activity summary:
+  - Fetched and reviewed source content for Racing, Results, 2026 Notice of Race, and 2026 Sailing Instructions
+  - Identified and copied the current Notice of Race and Sailing Instructions PDFs into the repo as local public assets
+  - Added Eleventy templates for the Racing overview, Results page, and both current-season document pages
+  - Switched the main Racing navigation item from the live site to the local page
+  - Rebuilt the site, rechecked generated local links, and spot-checked racing page layouts in a browser
+- Output summary:
+  - Racing overview and current-season core docs now exist locally with stable legacy filenames
+  - Main navigation now points to the local Racing page without introducing dead links
+  - Deeper race archives remain available through clearly-labeled legacy links until migrated
+  - Batch 4 remains in a usable, rollback-safe state
