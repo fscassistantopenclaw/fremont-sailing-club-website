@@ -6,49 +6,131 @@
     <title>Fremont Sailing Club</title>
     <meta
       name="description"
-      content="A fresh website rewrite in progress for Fremont Sailing Club."
+      content="The Fremont Sailing Club, established in 1968, is a family-oriented small boat sailing club in the San Francisco Bay Area."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrap">
-        <p class="eyebrow">Website rewrite in progress</p>
-        <h1>Fremont Sailing Club</h1>
-        <p class="lede">
-          A clean starting point for the new GitHub-hosted site.
-        </p>
+    <header class="topbar">
+      <div class="wrap topbar__inner">
+        <img
+          class="topbar__logo"
+          src="assets/images/home/club-burgee.png"
+          alt="Fremont Sailing Club burgee"
+        />
       </div>
     </header>
 
-    <main class="wrap">
-      <section class="card">
-        <h2>Initial scaffold</h2>
-        <p>
-          This repository now has a minimal static homepage so Git, GitHub, and
-          GitHub Pages can be wired up cleanly.
+    <main>
+      <section class="hero wrap" aria-label="Club header image">
+        <img
+          class="hero__image"
+          src="assets/images/home/shoreline-lake-header.jpg"
+          alt="Sailboats and docks at Shoreline Lake"
+        />
+      </section>
+
+      <section class="intro wrap">
+        <p class="intro__eyebrow">Est. in 1968</p>
+        <h1>Fremont Sailing Club</h1>
+        <p class="intro__tagline">
+          “The finest small boat sailing club in the San Francisco Bay area”
         </p>
       </section>
 
-      <section class="grid">
-        <article class="card">
-          <h2>What’s here</h2>
-          <ul>
-            <li>A simple static landing page</li>
-            <li>Basic responsive styling</li>
-            <li>Ready to push to GitHub over SSH</li>
-          </ul>
-        </article>
+      <section class="events wrap" aria-labelledby="events-heading">
+        <div class="events__media card card--photo">
+          <img
+            src="assets/images/home/action-photo.jpg"
+            alt="A sailor racing a small dinghy on open water"
+          />
+        </div>
 
-        <article class="card">
-          <h2>Next steps</h2>
-          <ul>
-            <li>Connect the GitHub remote</li>
-            <li>Push the initial commit</li>
-            <li>Enable GitHub Pages</li>
-          </ul>
-        </article>
+        <div class="events__content card">
+          <div class="events__header">
+            <h2 id="events-heading">Our Next Events</h2>
+            <a
+              class="link-chip"
+              href="https://www.fremontsailingclub.org/2023-calendar-562573-358418.html"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Go to calendar
+            </a>
+          </div>
+
+          <article class="event-item">
+            <p class="event-item__date">12 April 2026</p>
+            <h3>2026 Sail-A-Dinghy Day</h3>
+            <p>
+              Join the Shoreline Lake event day and connect with the local small boat sailing community.
+            </p>
+            <a
+              href="https://shorelinelake.com/upcoming_events.html"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Event details
+            </a>
+          </article>
+
+          <article class="event-item">
+            <p class="event-item__date">3 May 2026</p>
+            <h3>2026 Spring Series, Day 1</h3>
+            <p>
+              Preseason practice day is still TBD. Racing is at Shoreline Lake in Mountain View.
+            </p>
+            <div class="event-item__links">
+              <a
+                href="https://maps.app.goo.gl/yJPMdsg94msvBMUN7"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Map
+              </a>
+              <a
+                href="https://www.fremontsailingclub.org/results.html"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Racing pages
+              </a>
+            </div>
+          </article>
+        </div>
       </section>
+
+      <section class="club-note wrap">
+        <p>
+          Come join us to sail, whether you bring a boat of your own or crew with one of our members.
+          Visit the membership page to join or renew, and check the current calendar for upcoming club events.
+        </p>
+
+        <div class="club-note__actions">
+          <a
+            class="button"
+            href="https://www.fremontsailingclub.org/membership.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Join or renew
+          </a>
+          <a
+            class="button button--secondary"
+            href="https://www.fremontsailingclub.org/commodores-comments.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Commodore’s Comments
+          </a>
+        </div>
+      </section>
+
+      <section class="accent-band" aria-hidden="true"></section>
     </main>
+
+    <footer class="site-footer wrap">
+      <p>Fremont Sailing Club, Fremont, California</p>
+    </footer>
   </body>
 </html>
