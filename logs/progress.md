@@ -11,3 +11,4 @@
 - Received approval for the simplified menu, installing Eleventy, and preserving legacy filenames for now. Beginning Batch 1: shared shell, homepage menu, and stable generated output after each commit.
 - Completed the first pass of Batch 1: Eleventy is installed, the homepage now builds from shared source templates, the simplified menu is live, and the generated site was checked for obvious layout problems and dead local links.
 - Repair batch completed after rollback: removed root-absolute internal paths from the shared homepage shell, added a subpath-safety validation script, and rechecked the homepage under a nested GitHub Pages-style subpath before resuming any content work.
+- Restarted Batch 2 from the repaired base and migrated the public core club pages: The Club, Membership, By Laws, and Useful Links. Club and Useful Links now point to local pages, while other top-level sections remain external until their own batches are approved and migrated.

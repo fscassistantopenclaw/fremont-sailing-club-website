@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+---
+<main class="page-shell wrap">
+  <header class="page-header">
+    <p class="page-header__eyebrow">{{ section or 'Fremont Sailing Club' }}</p>
+    <h1>{{ title }}</h1>
+    {% if lede %}<p class="page-header__lede">{{ lede }}</p>{% endif %}
+  </header>
+
+  <section class="page-content card prose">
+    {{ content | safe }}
+  </section>
+</main>

@@ -77,3 +77,17 @@
   - A repeatable subpath-safety validation step now exists in the repo
   - Homepage styling and images loaded correctly in the subpath smoke test
   - No further migration work was resumed in this batch
+
+## 2026-04-19 - Batch 2 restart implementation
+- Tool activity summary:
+  - Re-reviewed source material for The Club, Membership, By Laws, and Useful Links
+  - Added a shared standard content-page layout
+  - Migrated `the-club.html`, `membership.html`, `by-laws.html`, and `useful-links.html`
+  - Copied the by-laws PDF into the repo as a local public asset and implemented the page with inline-viewer fallback plus download/open actions
+  - Switched the main Club and Useful Links navigation items from the legacy site to the new local pages
+  - Rebuilt the site, rechecked subpath safety and local links, and ran browser smoke checks on the homepage and Batch 2 pages
+- Output summary:
+  - Public core club pages now exist locally with stable legacy filenames
+  - Club and Useful Links are now served from the new GitHub Pages site
+  - Fleets, Racing, News & Archives, and Photos still intentionally link to the legacy site
+  - Batch 2 is ready for live-site verification and user review

@@ -7,10 +7,10 @@
   - tag `pre-rollback-2026-04-19`
 
 ## Current task
-- Repair the homepage/shared-shell foundation before restarting Batch 2.
+- Batch 2 restart implementation completed locally and is being validated for review.
 
 ## Known issue being fixed
-- Root-absolute internal paths like `/styles.css` and `/` broke the deployed site on GitHub Pages project subpaths.
+- Root-absolute internal paths like `/styles.css` and `/` broke the deployed site on GitHub Pages project subpaths. This was repaired before restarting Batch 2.
 
 ## Rules to follow
 - Stop after each batch and wait for user approval.
@@ -23,6 +23,19 @@
 - Browser smoke test of homepage under a nested subpath
 - Confirm homepage styling loads and no local links are broken
 
-## Next planned step after this repair batch
-- Wait for user review.
-- Only then restart Batch 2.
+## Current built vs external status
+- Built locally/new site:
+  - homepage
+  - the-club.html
+  - membership.html
+  - by-laws.html
+  - useful-links.html
+- Still external:
+  - Fleets
+  - Racing
+  - News & Archives
+  - Photos
+
+## Next planned step
+- Finish live-site verification for this restarted Batch 2.
+- Wait for user review and approval before any Batch 3 work.
