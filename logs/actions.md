@@ -103,3 +103,16 @@
   - Main navigation now points to the local Racing page without introducing dead links
   - Deeper race archives remain available through clearly-labeled legacy links until migrated
   - Batch 4 remains in a usable, rollback-safe state
+
+## 2026-04-19 - Batch 5 implementation
+- Tool activity summary:
+  - Fetched and reviewed source content for Commodore's Comments, Windjammer Newsletter, and the related archive/navigation links
+  - Added Eleventy templates for Commodore's Comments and Windjammer Newsletter
+  - Updated club internal Windjammer links to point to the local site
+  - Switched the main News & Archives navigation item from the live site to the local page
+  - Rebuilt the site, rechecked generated local links, and spot-checked page layouts in a browser
+- Output summary:
+  - News & Archives basics now exist locally and are reachable from the main navigation
+  - Windjammer links inside the site now stay local where available
+  - Archive-heavy historical content remains clearly linked from the legacy site until migrated
+  - Batch 5 remains in a usable, rollback-safe state
