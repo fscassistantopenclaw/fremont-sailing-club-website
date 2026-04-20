@@ -64,3 +64,18 @@
   - Homepage now builds from shared source templates
   - Simplified menu is integrated without dead local links
   - Batch 1 stays in a usable state and remains easy to rollback
+
+## 2026-04-19 - Batch 2 implementation
+- Tool activity summary:
+  - Fetched and reviewed source content for The Club, Membership, By Laws, Useful Links, and the legacy Officers & Fleet Captains page
+  - Detected that `officers--fleet-captains.html` is password-protected on the old site
+  - Added a shared standard content-page layout
+  - Migrated the core club pages into Eleventy source templates
+  - Copied the by-laws PDF into the repo as a local public asset
+  - Rebuilt the site and corrected Eleventy output to preserve legacy filenames exactly
+  - Verified generated local links and spot-checked page layouts with local browser screenshots
+- Output summary:
+  - Core club pages now exist locally with stable legacy filenames
+  - Club and Useful Links menu entries now point to local pages
+  - Password-protected legacy content was not copied into the public repo
+  - Batch 2 remains in a usable, rollback-safe state
