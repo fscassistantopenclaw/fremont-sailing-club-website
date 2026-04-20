@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title or site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="topbar">
+        <div class="wrap topbar__inner">
+          <a class="topbar__home" href="/" aria-label="Go to Fremont Sailing Club homepage">
+            <img
+              class="topbar__logo"
+              src="/assets/images/home/club-burgee.png"
+              alt="Fremont Sailing Club burgee"
+            />
+          </a>
+        </div>
+      </div>
+
+      <nav class="site-nav" aria-label="Primary">
+        <div class="wrap">
+          <ul class="site-nav__list">
+            {% for item in site.menu %}
+              <li>
+                <a href="{{ item.href }}" {% if item.external %}target="_blank" rel="noreferrer"{% endif %}>
+                  {{ item.label }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    {{ content | safe }}
+
+    <footer class="site-footer wrap">
+      <p>Fremont Sailing Club, Fremont, California</p>
+    </footer>
+  </body>
+</html>

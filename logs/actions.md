@@ -41,3 +41,26 @@
   - Goal is to migrate the rest of the site in small, reviewable commits
   - Need to lock down menu structure and page-group batching first
   - Will surface any major architecture/tooling decision for approval before proceeding
+
+## 2026-04-19 - Batch 1 kickoff
+- Tool activity summary:
+  - Recorded approval for simplified menu, Eleventy installation, and preserving legacy filenames
+  - Starting Batch 1 implementation
+- Output summary:
+  - Batch 1 will add shared structure and homepage navigation
+  - The generated site should stay usable after each commit
+  - Menu links will avoid dead ends while section migrations are still in progress
+
+## 2026-04-19 - Batch 1 implementation
+- Tool activity summary:
+  - Installed `@11ty/eleventy` after approval
+  - Added `.eleventy.js`, `package.json`, `package-lock.json`, and `src/` source structure
+  - Added shared site data and a shared base layout
+  - Rebuilt the homepage through Eleventy with the simplified top navigation
+  - Ran a local Eleventy build
+  - Ran a local browser screenshot check
+  - Ran a local-link check for generated homepage links
+- Output summary:
+  - Homepage now builds from shared source templates
+  - Simplified menu is integrated without dead local links
+  - Batch 1 stays in a usable state and remains easy to rollback

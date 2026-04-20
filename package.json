@@ -1,0 +1,25 @@
+{
+  "name": "fremont-sailing-club-website",
+  "version": "1.0.0",
+  "description": "Initial scaffold for the Fremont Sailing Club website rewrite.",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fscassistantopenclaw/fremont-sailing-club-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fscassistantopenclaw/fremont-sailing-club-website/issues"
+  },
+  "homepage": "https://github.com/fscassistantopenclaw/fremont-sailing-club-website#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
